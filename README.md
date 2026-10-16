@@ -1,5 +1,7 @@
 # LEAD AUTOMATION SYSTEM
 
+Built by [Heaq Digital](https://heaqdigital.com), an automation studio for US service businesses. Full write-up: Speed to lead automation https://heaqdigital.com/speed-to-lead-automation
+
 This project is a fully automated lead management workflow designed to streamline lead intake, scoring, follow-up timing, and email communication. It combines **Zapier**, **Google Sheets**, and **JavaScript** code steps to ensure qualified leads are promptly contacted, data is centralized, and all actions are logged for transparency and efficiency.
 
 ## ARCHITECTURE OVERVIEW
